@@ -15,13 +15,13 @@
 - During work if I am to miss out on key practices, those will be materials to which I will refer
 
 ## Table of Contents
-1. [Data Engineering Overview (Week 1)](#1-data-engineering-overview)
-2. [Relational Databases (SQL - SQL Server) (Weeks 2-3)](#2-relational-databases)
-3. [ETL - Data Warehouse (Weeks 4-5)](#3-etl---data-warehouse)
-4. [Data Visualization - Business Intelligence with Power BI (Week 6)](#4-data-visualization---business-intelligence)
-5. [ETL Project (Weeks 7-8)](#5-etl-project)
-6. [DataLake - Big Data (Weeks 9-10)](#6-datalake---big-data)
-7. [Big Data Project (Weeks 11-12)](#7-big-data-project)
+1. [Data Engineering Overview (Week 1)](#1-data-engineering-overview-week-1)
+2. [Relational Databases (SQL - SQL Server) (Weeks 2-3)](#2-relational-databases-weeks-2-3)
+3. [ETL - Data Warehouse (Weeks 4-5)](#3-etl---data-warehouse-weeks-4-5)
+4. [Data Visualization - Business Intelligence with Power BI (Week 6)](#4-data-visualization---business-intelligence-week-6)
+5. [ETL Project (Weeks 7-8)](#5-etl-project-weeks-7-8)
+6. [DataLake - Big Data (Weeks 9-10)](#6-datalake---big-data-weeks-9-10)
+7. [Big Data Project (Weeks 11-12)](#7-big-data-project-weeks-11-12)
 
 ## 1. Data Engineering Overview (Week 1)
 ### 1.1 Tổng quan về Data Engineer
